@@ -14,6 +14,13 @@ This repository contains the analysis code for the study:
 The work investigates altered brain network organization in **Major Depressive Disorder (MDD)** using EEG signal complexity, visibility graph–based functional networks, and hub topology analysis.
 
 ---
+## Publication Status
+
+This study has been **accepted for publication** in the Springer conference
+proceedings of the **International Conference on Big Data and Advanced Computing
+(ICBDAC 2025)**, held at **Jawaharlal Nehru University (JNU), New Delhi**.
+
+---
 
 ##  Analysis Overview
 
